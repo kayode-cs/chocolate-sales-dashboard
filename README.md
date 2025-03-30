@@ -34,7 +34,7 @@ This project analyzes **chocolate sales data** to identify **key trends, top-sel
 
 ## **📂 How to Use This Project**
 1. Download the dataset [[Chocolate Sales.xlsx](https://github.com/user-attachments/files/19523691/Chocolate.Sales.xlsx)](#).  
-2. Open Tableau and load `Chocolate Sales.xlsx`.  
+2. Open Tableau and load ([https://public.tableau.com/app/profile/kayode.adelakun/viz/ChocolateSalesInsightsTrend/Dashboard1](https://public.tableau.com/app/profile/kayode.adelakun/viz/ChocolateSalesInsightsTrend/Dashboard1))`.  
 3. Explore the interactive visualizations.  
 
 ## **📩 Connect With Me**
