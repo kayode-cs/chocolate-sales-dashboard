@@ -1,4 +1,4 @@
-# chocolate-sales-dashboard
+# Chocolate-Sales-Dashboard
 A Tableau Dashboard Analyzing Chocolate Sales Trends
 🚀 **Data Visualization | Tableau | Sales Analytics**  
 
